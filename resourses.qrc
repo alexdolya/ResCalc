@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>resistor.png</file>
+        <file>rescalc.ico</file>
+    </qresource>
+</RCC>
