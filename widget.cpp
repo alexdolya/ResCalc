@@ -19,7 +19,7 @@ Widget::Widget(QWidget *parent) :
     hide_strip_3();
     hide_strip_6();
     print_nominal();
-    ui->label->setText("\u00A9 Alex Dolya, 2019");
+    ui->label->setText("Alex Dolya, 2019");
 }
 
 Widget::~Widget()
